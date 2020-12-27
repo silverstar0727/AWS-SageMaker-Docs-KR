@@ -1,4 +1,4 @@
-# AWS-SageMaker-Docs
+# AWS-SageMaker-Docs(TF)
 
 
 본 문서는 [AWS SageMaker의 official document](https://sagemaker.readthedocs.io/en/stable/frameworks/tensorflow/using_tf.html#train-a-model-with-tensorflow)를 토대로 작성되었습니다.
