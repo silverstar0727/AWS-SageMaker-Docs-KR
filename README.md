@@ -8,13 +8,13 @@
 ## Contents
 
 #### Train a Model with TensorFlow
-* [Prepare a Training Script](https://silverstar0727.github.io/SageMaker_01/) (완)
+* [Prepare a Training Script](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-26-SageMaker_01.md)(완)
   * Adapting your local TensorFlow script
   * Use third-party libraries
-* [Create an Estimator](https://silverstar0727.github.io/SageMaker_02/) (완)
+* [Create an Estimator](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-27-SageMaker_02.md) (완)
   * Specify a Docker image using an Estimator
-* Call the fit Method
-* Distributed Training
+* [Call the fit Method](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-28-SageMaker_03.md) (완)
+* [Distributed Training](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-29-SageMaker_04.md) ()
   * Training with parameter servers
   * Training with Horovod
 * Training with Pipe Mode using PipeModeDataset
