@@ -14,7 +14,7 @@
 * [Create an Estimator](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-27-SageMaker_02.md) (완)
   * Specify a Docker image using an Estimator
 * [Call the fit Method](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-28-SageMaker_03.md) (완)
-* [Distributed Training](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-29-SageMaker_04.md) ()
+* [Distributed Training](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-29-SageMaker_04.md) (완)
   * Training with parameter servers
   * Training with Horovod
 * Training with Pipe Mode using PipeModeDataset
