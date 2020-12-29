@@ -8,20 +8,20 @@
 ## Contents
 
 #### Train a Model with TensorFlow
-* [Prepare a Training Script](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-26-SageMaker_01.md)(완)
+* [Prepare a Training Script](https://github.com/silverstar0727/AWS-SageMaker-Docs/blob/main/sagemaker/2020-12-26-SageMaker_01.md)(완)
   * Adapting your local TensorFlow script
   * Use third-party libraries
-* [Create an Estimator](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-27-SageMaker_02.md) (완)
+* [Create an Estimator](https://github.com/silverstar0727/AWS-SageMaker-Docs/blob/main/sagemaker/2020-12-27-SageMaker_02.md) (완)
   * Specify a Docker image using an Estimator
-* [Call the fit Method](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-28-SageMaker_03.md) (완)
-* [Distributed Training](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-29-SageMaker_04.md) (완)
+* [Call the fit Method](https://github.com/silverstar0727/AWS-SageMaker-Docs/blob/main/sagemaker/2020-12-28-SageMaker_03.md) (완)
+* [Distributed Training](https://github.com/silverstar0727/AWS-SageMaker-Docs/blob/main/sagemaker/2020-12-29-SageMaker_04.md) (완)
   * Training with parameter servers
   * Training with Horovod
-* [Training with Pipe Mode using PipeModeDataset](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-30-SageMaker_05.md)(완)
+* [Training with Pipe Mode using PipeModeDataset](https://github.com/silverstar0727/AWS-SageMaker-Docs/blob/main/sagemaker/2020-12-30-SageMaker_05.md)(완)
 * Training with MKL-DNN disabled
 
 #### Deploy TensorFlow Serving models
-* [Deploy to a SageMaker Endpoint](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-31-SageMaker_07.md) (완)
+* [Deploy to a SageMaker Endpoint](https://github.com/silverstar0727/AWS-SageMaker-Docs/blob/main/sagemaker/2020-12-31-SageMaker_07) (완)
   * Deploying from an Estimator
     * What happens when deploy is called
   * Deploying directly from model artifacts
