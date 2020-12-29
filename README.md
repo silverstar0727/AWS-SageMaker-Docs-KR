@@ -21,7 +21,7 @@
 * Training with MKL-DNN disabled
 
 #### Deploy TensorFlow Serving models
-* Deploy to a SageMaker Endpoint
+* [Deploy to a SageMaker Endpoint](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-31-SageMaker_07.md) (완)
   * Deploying from an Estimator
     * What happens when deploy is called
   * Deploying directly from model artifacts
