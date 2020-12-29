@@ -17,7 +17,7 @@
 * [Distributed Training](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-29-SageMaker_04.md) (완)
   * Training with parameter servers
   * Training with Horovod
-* Training with Pipe Mode using PipeModeDataset
+* [Training with Pipe Mode using PipeModeDataset](https://github.com/silverstar0727/silverstar0727.github.io/blob/main/_posts/sagemaker/2020-12-30-SageMaker_05.md)(완)
 * Training with MKL-DNN disabled
 
 #### Deploy TensorFlow Serving models
