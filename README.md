@@ -18,7 +18,7 @@
   * Training with parameter servers
   * Training with Horovod
 * [Training with Pipe Mode using PipeModeDataset](https://github.com/silverstar0727/AWS-SageMaker-Docs/blob/main/sagemaker/2020-12-30-SageMaker_05.md)(완)
-* Training with MKL-DNN disabled
+* Training with MKL-DNN disabled (보류...)
 
 #### Deploy TensorFlow Serving models
 * [Deploy to a SageMaker Endpoint](https://github.com/silverstar0727/AWS-SageMaker-Docs/blob/main/sagemaker/2020-12-31-SageMaker_07.md) (완)
